@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Full Name]
+# Hi there! 👋 I'm Uday Kummer
 
 ## 🚀 About Me
 I'm a passionate **[Your Role/Title]** with a keen interest in **[Your Interests - e.g., Web Development, AI, Machine Learning, CSE]**. I love building innovative solutions and contributing to open-source projects that make a difference.
@@ -101,5 +101,5 @@ I'm a passionate **[Your Role/Title]** with a keen interest in **[Your Interests
 
 <div align="center">
   <h3>⭐ Star some repositories if you find them interesting!</h3>
-  <p>Made with ❤️ by [Your Name]</p>
+  <p>Made with ❤️ by Uday Kummer</p>
 </div>
