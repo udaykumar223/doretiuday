@@ -1,4 +1,4 @@
-  # 👋 Hi there! I'm Uday Kummer
+# 👋 Hi there! I'm Uday Kummer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
@@ -6,6 +6,18 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500" alt="Coding GIF">
+</div>
+
+<div align="center">
+  <h1 style="font-size: 3em; color: #00D9FF; margin: 40px 0;">
+    🚀 UDAY KUMMER 🚀
+  </h1>
+  <h2 style="color: #70a5fd; font-weight: 300; margin-bottom: 30px;">
+    Passionate Developer • AI Enthusiast • Innovation Seeker
+  </h2>
+  <p style="font-size: 1.2em; color: #a9b1d6; max-width: 600px; margin: 0 auto;">
+    Building the future with code, one line at a time. Turning ideas into reality through technology and passion.
+  </p>
 </div>
 
 ## 🚀 About Me
@@ -324,8 +336,6 @@ const uday = {
   🔄 **Build AI/ML SaaS Platform**  
   ⏳ **Speak at 3 Tech Conferences**  
   
-</div>(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/udaykummer)
-
 </div>
 
 ## 💡 Random Dev Joke
