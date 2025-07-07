@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Uday Kummer
+  # 👋 Hi there! I'm Uday Kummer
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Innovator" alt="Typing SVG" />
@@ -134,11 +134,76 @@ const uday = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/udaykummer/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udaykummer&repo=project1&theme=tokyonight&hide_border=true" />
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 AI ChatBot Assistant</h3>
+        <div align="center">
+          <a href="https://github.com/udaykummer/ai-chatbot-assistant">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaykummer&repo=ai-chatbot-assistant&theme=tokyonight&hide_border=true" />
+          </a>
+          <p><strong>Tech Stack:</strong> Python, OpenAI API, Flask, React</p>
+          <p>🎯 Intelligent conversational AI with natural language processing capabilities</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🌐 E-Commerce Platform</h3>
+        <div align="center">
+          <a href="https://github.com/udaykummer/ecommerce-platform">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaykummer&repo=ecommerce-platform&theme=tokyonight&hide_border=true" />
+          </a>
+          <p><strong>Tech Stack:</strong> React, Node.js, MongoDB, Stripe</p>
+          <p>🛒 Full-stack e-commerce solution with payment integration</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">📊 Data Visualization Dashboard</h3>
+        <div align="center">
+          <a href="https://github.com/udaykummer/data-viz-dashboard">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaykummer&repo=data-viz-dashboard&theme=tokyonight&hide_border=true" />
+          </a>
+          <p><strong>Tech Stack:</strong> D3.js, React, Python, FastAPI</p>
+          <p>📈 Interactive data visualization with real-time analytics</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🎮 Real-time Game Platform</h3>
+        <div align="center">
+          <a href="https://github.com/udaykummer/realtime-game-platform">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=udaykummer&repo=realtime-game-platform&theme=tokyonight&hide_border=true" />
+          </a>
+          <p><strong>Tech Stack:</strong> Socket.io, Node.js, Vue.js</p>
+          <p>🎯 Multiplayer gaming platform with real-time communication</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 🚀 More Projects
+<div align="center">
+  <a href="https://github.com/udaykummer/weather-app">
+    <img src="https://img.shields.io/badge/🌤️%20Weather%20App-React%20|%20OpenWeather%20API-blue?style=for-the-badge" />
   </a>
-  <a href="https://github.com/udaykummer/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=udaykummer&repo=project2&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/udaykummer/task-manager">
+    <img src="https://img.shields.io/badge/📝%20Task%20Manager-MERN%20Stack-green?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/udaykummer/crypto-tracker">
+    <img src="https://img.shields.io/badge/💰%20Crypto%20Tracker-Vue.js%20|%20CoinGecko%20API-orange?style=for-the-badge" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/udaykummer/portfolio-website">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio%20Website-Next.js%20|%20Tailwind-purple?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/udaykummer/ml-image-classifier">
+    <img src="https://img.shields.io/badge/🔍%20ML%20Image%20Classifier-TensorFlow%20|%20Python-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/udaykummer/blog-cms">
+    <img src="https://img.shields.io/badge/📚%20Blog%20CMS-Django%20|%20PostgreSQL-darkgreen?style=for-the-badge" />
   </a>
 </div>
 
@@ -152,6 +217,68 @@ const uday = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" alt="Coding GIF">
 </div>
 
+## 🏅 Achievements & Certifications
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80" alt="AI">
+        <br><strong>AWS Certified</strong>
+        <br>Cloud Practitioner
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="80" alt="Web Dev">
+        <br><strong>Google Cloud</strong>
+        <br>Associate Engineer
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="80" alt="Open Source">
+        <br><strong>Microsoft Azure</strong>
+        <br>Fundamentals
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80" alt="Data">
+        <br><strong>TensorFlow</strong>
+        <br>Developer Certificate
+      </td>
+    </tr>
+  </table>
+</div>
+
+## 🌟 Open Source Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=udaykummer&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+## 📱 Mobile & Desktop Apps
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100" alt="Mobile">
+        <br><strong>📱 Fitness Tracker</strong>
+        <br>React Native | Firebase
+        <br><a href="https://github.com/udaykummer/fitness-tracker-app">View Project</a>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7c08.gif" width="100" alt="Desktop">
+        <br><strong>💻 Code Editor</strong>
+        <br>Electron | Monaco Editor
+        <br><a href="https://github.com/udaykummer/code-editor-desktop">View Project</a>
+      </td>
+      <td align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100" alt="IoT">
+        <br><strong>🏠 Smart Home</strong>
+        <br>IoT | Arduino | React
+        <br><a href="https://github.com/udaykummer/smart-home-iot">View Project</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 🤝 Connect With Me
 
 <div align="center">
@@ -162,6 +289,42 @@ const uday = {
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:udaykummer@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://udaykummer.dev)
 [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/udaykummer)
+
+</div>
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=udaykummer&custom_title=Uday's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+## 💖 Support My Work
+
+<div align="center">
+  <a href="https://www.buymeacoffee.com/udaykummer">
+    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://github.com/sponsors/udaykummer">
+    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" />
+  </a>
+  <a href="https://paypal.me/udaykummer">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
+  </a>
+</div>
+
+## 🎯 2024 Goals
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" alt="Goal">
+  
+  ✅ **Complete 100 Days of Code Challenge**  
+  ✅ **Contribute to 10 Open Source Projects**  
+  🔄 **Launch 5 Personal Projects**  
+  🔄 **Learn WebAssembly & Rust**  
+  🔄 **Build AI/ML SaaS Platform**  
+  ⏳ **Speak at 3 Tech Conferences**  
+  
+</div>(https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/udaykummer)
 
 </div>
 
